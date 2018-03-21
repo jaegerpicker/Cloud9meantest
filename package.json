@@ -4,22 +4,28 @@
   "version": "0.4.0",
   "private": false,
   "author": "Linnovate <mean@linnovate.net>",
-  "contributors": [{
-    "name": "Lior Kesos",
-    "mail": "lior@linnovate.net"
-  }, {
-    "name": "Yonatan Ellman",
-    "mail": "yonatan@linnovate.net"
-  }, {
-    "name": "Drew Fyock",
-    "mail": "drew@steelbisondev.com"
-  }, {
-    "name": "Ehud Shahak",
-    "mail": "ehud@linnovate.net"
-  }, {
-    "name": "Amos Haviv",
-    "mail": "mail@amoshaviv.com"
-  }],
+  "contributors": [
+    {
+      "name": "Lior Kesos",
+      "mail": "lior@linnovate.net"
+    },
+    {
+      "name": "Yonatan Ellman",
+      "mail": "yonatan@linnovate.net"
+    },
+    {
+      "name": "Drew Fyock",
+      "mail": "drew@steelbisondev.com"
+    },
+    {
+      "name": "Ehud Shahak",
+      "mail": "ehud@linnovate.net"
+    },
+    {
+      "name": "Amos Haviv",
+      "mail": "mail@amoshaviv.com"
+    }
+  ],
   "mean": "0.4.0",
   "repository": {
     "type": "git",
@@ -63,7 +69,7 @@
     "grunt-nodemon": "0.2.1",
     "load-grunt-tasks": "^0.4.0",
     "lodash": "^2.4.1",
-    "meanio": "~0.5.2",
+    "meanio": "~0.6.8",
     "method-override": "^1.0.0",
     "mongoose": "^3.8.8",
     "morgan": "^1.0.0",
