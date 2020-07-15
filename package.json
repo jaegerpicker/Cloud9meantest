@@ -62,7 +62,7 @@
     "grunt-env": "^0.4.1",
     "grunt-nodemon": "0.2.1",
     "load-grunt-tasks": "^0.4.0",
-    "lodash": "^2.4.1",
+    "lodash": "^4.17.19",
     "meanio": "~0.5.2",
     "method-override": "^1.0.0",
     "mongoose": "^3.8.8",
